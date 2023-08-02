@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/GodBaap/e-Restaurant.git
+   git clone https://github.com/GodBaap/Eventicaa.git
    ```
 2. Run on any IDE
 
