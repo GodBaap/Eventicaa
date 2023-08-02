@@ -57,8 +57,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Usage
 
-This web application can be used to browse through various registered restaurants; their menu, dining, facility, location, menu, table bookings and many more that even from the convinience of your home. 
-
+This web application can be used to browse through various events of your choice and book any event at your own convinience. Simple and easy to use!
 
 ## Contributing
 
